@@ -1,0 +1,12 @@
+Second question, as it is stated in the question description as well, using abstract factory
+methods made it easy to create specialized nodes and to perform additional operations. Code now can be
+changed and the existing code will still run without needing any changes.
+
+    For 3rd question, having the abstract factory class which I created for question 2 made it easier
+to count the number of instances of each type of node, i.e., NodeFactory enabled me to keep track of
+the instances of the objects that are being instanciated at runtime.
+
+    For 4th question using Singleton design pattern allowed me to make a class in my design such that 
+only one instance of that class can be created which is very important in case there are classes in
+a design that should only have one instance.
+

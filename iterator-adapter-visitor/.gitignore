@@ -1,0 +1,9 @@
+/.metadata/
+.recommenders/
+TestMain.java
+*.class
+.settings
+.classpath
+.project
+.swp
+/bin/

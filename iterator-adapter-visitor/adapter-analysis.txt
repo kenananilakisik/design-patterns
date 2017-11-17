@@ -1,0 +1,3 @@
+Using adaptor design pattern allowed me to use define NodeSet classe's methods interms of
+BitVector methods, i.e. instead of implementing NodeSet from scratch I was able to use BitVector which I
+initially implemented and which provides almost the right functionality for NodeSet.

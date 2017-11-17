@@ -1,0 +1,3 @@
+Usage of Iterator design pattern minimizes the concrete references that I need to use in my test class.
+With iterator desing pattern I was able to access the integers represented by int array without revealing my design's underlying representation. For example, anyone wants to iterate over BitVector just needs to use nextElement and hasNextElement which doesn't reveal anything about the implementation. In addition, usage of iterator design pattern made the design more scalable such that without changing much another type of object can be iterated with this representation.
+

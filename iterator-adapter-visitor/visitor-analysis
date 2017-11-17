@@ -1,0 +1,4 @@
+Using visitor design pattern allowed me to add operations to a composite structure
+without changing the structure itself. It also made the operations performed by the
+visitor centralized. With the usage of visitor design pattern all concerete classes
+has to do is to add an accept methods without worrying about exposing themselves.
